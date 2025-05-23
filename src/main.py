@@ -7,7 +7,7 @@ def multiply(a, b):
     return a * b
 
 if __name__ == "__main__":
-    x = 5
+    x = 10
     y = 7
     print(f"Sum of {x} and {y} is {add(x, y)}")
     print(f"Product of {x} and {y} is {multiply(x, y)}")
